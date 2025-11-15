@@ -32,6 +32,22 @@ Here are some ideas to get you started:
 
 ---
 
+---
+
+### ⭐️ Some projects 
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crazyvt&repo=sudoku-sage&theme=vue&hide_border=true" alt="Repo Card 1"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crazyvt&repo=ListItAll&theme=vue&hide_border=true" alt="Repo Card 2"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=crazyvt&repo=Resize_me&theme=vue&hide_border=true" alt="Repo Card 3"/>
+</p>
+
+---
+
+
 ### 🚀 Stack & Toolkit
 
 A curated list of technologies I work with.
